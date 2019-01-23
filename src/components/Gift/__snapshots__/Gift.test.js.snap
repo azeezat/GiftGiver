@@ -74,6 +74,7 @@ ShallowWrapper {
           Remove Gift
         </Button>
       </Form>,
+      "className": "gift",
     },
     "ref": null,
     "rendered": Object {
@@ -318,6 +319,7 @@ ShallowWrapper {
             Remove Gift
           </Button>
         </Form>,
+        "className": "gift",
       },
       "ref": null,
       "rendered": Object {
